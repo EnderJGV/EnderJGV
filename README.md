@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EnderJGV&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EnderJGV&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-  <img src="https://roadmap.sh/card/tall/67cb3dd4fe4b7df03be746b4?variant=dark" height="200" alt="My Roadmap.sh Profile" />
 </div>
 
 ###
@@ -22,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://roadmap.sh" target="_blank">
     <img src="https://roadmap.sh/card/tall/67cb3dd4fe4b7df03be746b4?variant=dark" height="200" alt="My Roadmap.sh Profile" />
   </a>
