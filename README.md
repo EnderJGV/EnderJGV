@@ -22,4 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
 </div>
 
+<div align="center">
+  <a href="https://roadmap.sh" target="_blank">
+    <img src="https://roadmap.sh/card/tall/67cb3dd4fe4b7df03be746b4?variant=dark" height="200" alt="My Roadmap.sh Profile" />
+  </a>
+</div>
+
 ###
