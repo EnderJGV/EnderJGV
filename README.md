@@ -20,11 +20,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
 </div>
-
-<div align="left">
-  <a href="https://roadmap.sh" target="_blank">
-    <img src="https://roadmap.sh/card/tall/67cb3dd4fe4b7df03be746b4?variant=dark" height="200" alt="My Roadmap.sh Profile" />
-  </a>
-</div>
-
 ###
