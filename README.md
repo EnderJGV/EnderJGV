@@ -1,5 +1,3 @@
-<h2 align="left">Olá 👋! Eu sou Ender, um desenvolvedor Front-End 🚀</h2>
-
 ### 🚀 **Tecnologias** & **Ferramentas** com as quais trabalho:
 
 <div align="left">
@@ -10,6 +8,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
+
 ---
 
 ### 📲 **Meios de contato:**:
@@ -17,6 +16,7 @@
   <a href = "mailto:ender.guaina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ender-josue" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 ---
 
 ### 🏆 **Conquistas & Marcos:**
