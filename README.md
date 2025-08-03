@@ -4,7 +4,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EnderJGV&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=true" height="180" alt="Estatísticas do GitHub do Ender" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EnderJGV&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="180" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EnderJGV&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="200" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
