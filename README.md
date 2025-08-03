@@ -1,12 +1,15 @@
 ### 🚀 **Tecnologias** & **Ferramentas** com as quais trabalho:
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
 </div>
 
 ---
@@ -23,12 +26,3 @@
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas (ADS) | Atualmente expandindo meus conhecimentos em **Desenvolvimento Full-Stack**.
 - 🌍 Contribuí para projetos de código aberto.
 - 🌱 Aprendendo ativamente novas linguagens e ferramentas, atualmente explorando **Node.js**, **Python** entre outras.
----
-
-### 🌟 **Curiosidades:**
-- 💡 Sempre em busca de maneiras inovadoras de melhorar UI/UX e a experiência do usuário.
-- 🎮 Quando não estou programando, você pode me encontrar jogando ou experimentando novos gadgets tecnológicos.
-- 📚 Adoro ler livros sobre programação, design e tendências tecnológicas.
----
-
-Obrigado por visitar meu perfil! 😄
