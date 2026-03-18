@@ -64,10 +64,7 @@
         <a href="https://github.com/EnderJGV?tab=stars" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/github/stars/EnderJGV?style=for-the-badge&logo=github&logoColor=white&color=38bdf8" alt="Stars" />
         </a>
-        <a href="https://github.com/EnderJGV" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/github/repo-count/EnderJGV?style=for-the-badge&logo=github&logoColor=white&color=6366f1" alt="Repos" />
-        </a>
-      </div>
+       </div>
     </div>
   </div>
 
@@ -141,12 +138,6 @@
         height="150"
         alt="Profile summary"
         style="max-width:100%;"
-      />
-      <img
-        src="https://github-profile-trophy.vercel.app/?username=EnderJGV&theme=tokyonight&no-frame=true"
-        height="140"
-        alt="GitHub trophies"
-        style="max-width:100%; margin-top:10px;"
       />
     </div>
   </div>
